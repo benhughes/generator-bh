@@ -34,3 +34,4 @@ MIT © [ben hughes]()
 [travis-url]: https://travis-ci.org//generator-bh
 [daviddm-image]: https://david-dm.org//generator-bh.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org//generator-bh
+
